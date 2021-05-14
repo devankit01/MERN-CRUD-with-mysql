@@ -1,0 +1,47 @@
+*{
+  font-family: sans-serif;
+}
+body{
+  background-color: rgb(241, 240, 240);
+}
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.wrap{
+  padding: 15px 20px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+}
+ input{
+  padding: 4px 7px;
+  margin: 10px 12px;
+
+}
+ button{
+  padding: 6px 7px;
+  margin: 10px 12px;
+  background-color: darkcyan;
+  border:none;
+  color: white;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+  border-radius: 3px;
+
+}
+
+.card{
+  box-shadow: 5px 5px 6px rgba(0,0,0,0.1);
+  padding: 10px 5px;
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+
+  
+}
